@@ -61,9 +61,8 @@ Os modelos foram avaliados no mesmo conjunto de teste (1.032 mensagens: 904 `ham
 
 ```bash
 # 1. Clonar o repositório e acessar a pasta
-git clone [https://github.com/SEU_USUARIO/ml-challenge-filtro-antispam.git](https://github.com/SEU_USUARIO/ml-challenge-filtro-antispam.git)
-cd ml-challenge-filtro-antispam
-
+git clone 
+cd ml-challenge-filtro-antispam[https://github.com/SEU_USUARIO/ml-challenge-filtro-antispam.git](https://github.com/MarieKatianaPierre/ml-challenge-filtro-antispam.git)
 # 2. Criar e ativar o ambiente virtual
 python -m venv .venv
 # Windows (PowerShell):
